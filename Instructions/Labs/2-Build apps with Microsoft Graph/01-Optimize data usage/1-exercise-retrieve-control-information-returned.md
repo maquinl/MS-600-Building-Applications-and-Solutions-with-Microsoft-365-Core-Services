@@ -1,3 +1,10 @@
+---
+lab: 
+    title: 'Retrieve and control information returned from Microsoft Graph'
+    learning_path: 'Build apps with Microsoft Graph' 
+    module: 'Optimize data useage'
+---
+
 # Exercise 1: Retrieve and control information returned from Microsoft Graph 
 
 In this exercise, you'll create a new Azure AD web application registration using the Azure Active Directory admin center, a .NET Core console application, and query Microsoft Graph.
