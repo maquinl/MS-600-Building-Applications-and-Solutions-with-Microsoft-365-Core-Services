@@ -1,3 +1,10 @@
+---
+lab: 
+  title: 'Call secured APIs from web applications'
+  learning_path: 'Implement Microsoft identity' 
+  module: 'Secure custom APIs with Microsoft Identity'
+---
+
 # Exercise 2: Call secured APIs from web applications
 
 In this exercise, you’ll learn how to create server-side web apps that enable users to sign in and grant the app permissions to act on the user’s behalf. Once the user has authenticated and granted the app consent to act on their behalf, the web application will use data returned from a secure web API by using the OAuth 2.0 auth code grant flow.

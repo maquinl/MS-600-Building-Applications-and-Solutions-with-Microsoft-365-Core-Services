@@ -1,3 +1,10 @@
+---
+lab: 
+  title: 'Create and secure a web API with Microsoft identity'
+  learning_path: 'Implement Microsoft identity' 
+  module: 'Secure custom APIs with Microsoft Identity'
+---
+
 # Exercise 1: Create and secure a web API with Microsoft identity
 
 In this exercise, you’ll learn how to create a .NET Core web API application and secure it with Microsoft identity.

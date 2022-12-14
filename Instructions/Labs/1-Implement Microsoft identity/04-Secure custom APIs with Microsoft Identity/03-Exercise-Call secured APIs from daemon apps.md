@@ -1,3 +1,10 @@
+---
+lab: 
+  title: 'Call secured APIs from daemon apps'
+  learning_path: 'Implement Microsoft identity' 
+  module: 'Secure custom APIs with Microsoft Identity'
+---
+
 # Exercise 3: Call secured APIs from daemon apps
 
 In this exercise, you'll learn how to add app roles (application permission) to an Azure AD Application registration and consume a secured API from a daemon application.

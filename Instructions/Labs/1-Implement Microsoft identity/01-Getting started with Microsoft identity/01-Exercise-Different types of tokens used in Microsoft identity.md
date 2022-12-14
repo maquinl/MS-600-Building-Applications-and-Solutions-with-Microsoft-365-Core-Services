@@ -1,3 +1,9 @@
+---
+lab: 
+  title: 'Different types of tokens used in Microsoft identity'
+  learning_path: 'Implement Microsoft identity'
+  module: 'Getting started with Microsoft Identity'
+---
 # Exercise 1: Different types of tokens used in Microsoft identity
 
 In this exercise, you'll create an Azure AD application and single page application for a user to sign in and display their information on the page.
